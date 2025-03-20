@@ -1,0 +1,14 @@
+Nombre,Email,startups,mercados_bolsa,capital_riesgo,blockchain,inteligencia_artificial,real_estate,fintech,crypto,growth_hacking,fondos_inversion,networking,sostenibilidad,Mesa,Intereses
+Miriam,mbel@example.com,1,0,0,0,1,0,0,0,0,0,0,0,2,"startups, inteligencia_artificial"
+Javi,maki@example.com,0,0,0,0,1,0,0,1,0,0,0,0,2,"inteligencia_artificial, crypto"
+Eva,eva@example.com,0,0,0,0,0,0,1,0,0,1,0,0,1,"fintech, fondos_inversion"
+Alex,alex@example.com,0,0,0,1,0,0,0,0,0,0,1,0,0,"blockchain, networking"
+Marisol,marisol@example.com,0,1,0,1,0,0,0,0,0,0,0,0,0,"mercados_bolsa, blockchain"
+Pablo,pablo@example.com,0,0,0,0,0,1,1,0,0,0,0,0,1,"real_estate, fintech"
+Carmen,carmen@example.com,0,0,0,0,0,1,0,0,1,0,0,0,1,"real_estate, growth_hacking"
+Pedro,pedro@example.com,0,0,0,0,0,1,0,0,0,0,0,0,1,real_estate
+Pepe,pepe@example.com,0,0,0,0,1,0,0,0,0,0,0,0,2,inteligencia_artificial
+Eva2,eva2@example.com,0,1,0,0,0,0,0,0,0,0,0,0,0,mercados_bolsa
+Sara,sara@example.com,0,0,0,0,0,0,1,0,0,0,0,0,0,fintech
+Paulo,paulo@example.com,0,0,1,0,0,0,0,0,0,0,0,0,2,capital_riesgo
+Miriam,miri@example.com,0,0,1,0,0,1,0,1,0,0,0,0,1,"capital_riesgo, real_estate, crypto"
