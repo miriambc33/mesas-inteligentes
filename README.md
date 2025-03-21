@@ -19,4 +19,6 @@ Este proyecto es una aplicación para **organizar la distribución de participan
 - **Streamlit** 🖥️ (Interfaz web)  
 - **Git & GitHub** 🌍 (Control de versiones y despliegue)  
 
-
+## Ejecución:
+- **Formulario: streamlit run app.py
+- **Asignación mesas: streamlit run distribuir_mesas.py
